@@ -5,7 +5,7 @@
 Data related to our summarization experiments are present in *Data/ICF* folder.
 1. **11trials_for_analysis:** All 11 trials used in *Clinician summary evaluation*
     - **summary_trials_gpt4_031124.xlsx:** Generated summaries using both approaches
-2. **Surveys:** Contains survey for both *Clinician summary evaluation* and *Patient survey evaluation*
+2. **Surveys:** Contains survey for both *Clinician summary evaluation* and *Patient survey evaluation*, and the 5 summaries used for the patient surveys (pre-edited and post-edited versions).
 
 ### Code:
 Below notebooks will generate summaries.
